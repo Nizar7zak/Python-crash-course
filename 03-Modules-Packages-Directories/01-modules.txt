@@ -1,0 +1,7 @@
+What is a module?
+
+  instead of write my all code in one file
+  I can write each function in specific file
+  and i can call it when I want
+
+note / create a module and import it in another module.
